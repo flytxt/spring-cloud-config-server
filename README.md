@@ -1,4 +1,4 @@
-# Spring Cloud Config Server
+# Spring Cloud Config Server [![](https://images.microbadger.com/badges/image/flytxt/spring-cloud-config-server.svg)](https://microbadger.com/images/flytxt/spring-cloud-config-server "Get your own image badge on microbadger.com")
 A docker image of [Spring Cloud Config Server](http://cloud.spring.io/spring-cloud-config/spring-cloud-config.html). This image has Spring Cloud Bus using rabbitmq (amqp) configured. To disable it, use the config:
 
 ```yml
